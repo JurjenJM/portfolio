@@ -55,11 +55,6 @@
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.2);
 }
-
-.fa:hover {
-  color: red;
-}
-
 /* Navbar right button */
 .navbar-wagon-button {
   margin-left: 10px;
@@ -141,4 +136,13 @@
   transform: rotate(45deg);
   border-left: 1px solid #E6E6E6;
   border-top: 1px solid #E6E6E6;
+}
+.resume {
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+  font-size: 16px;
+}
+.resume:hover {
+  border-radius: 0px;
 }
