@@ -6,6 +6,7 @@
   background-size: cover !important;
   color: grey;
   position: relative;
+  margin: 5px 0px 5px 0px;
 }
 .card-user {
   position: absolute;
@@ -36,7 +37,12 @@
   list-style: none;
   padding-left: 0;
 }
-
+.card-bartuur {
+  color: white;
+}
+.card-bartuur h2 {
+  color: white;
+}
 .card-link {
   position: absolute;
   top: 0;
