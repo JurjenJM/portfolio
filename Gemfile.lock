@@ -143,9 +143,9 @@ DEPENDENCIES
   bootstrap-sass (= 3.3.6)
   font-awesome-sass (= 4.5.0)
   jquery-middleman
-  middleman (~> 3.4)
+  middleman (~> 3.4.1)
   middleman-autoprefixer
   middleman-deploy (~> 1.0)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5
